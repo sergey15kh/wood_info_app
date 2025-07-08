@@ -1,0 +1,33 @@
+// public/locales/ru/common.json
+{
+  "auth": {
+    "error": "Ошибка авторизации"
+  },
+  "app": {
+    "tagline": "Ваш помощник по работе с древесиной",
+    "not_registered": "Незарегистрированный пользователь",
+    "user_member": "Пользователь",
+    "premium_member": "Премиум пользователь"
+  },
+  "categories": "Категории",
+  "category": {
+    "edged": "Обрезные",
+    "unedged": "Необрезные",
+    "furniture": "Мебельные щиты",
+    "calculator": "Кубаторник",
+    "materials": "Материалы",
+    "projects": "Проекты"
+  },
+  "actions": {
+    "history": "История",
+    "favorites": "Избранное",
+    "share": "Поделиться"
+  },
+  "recent": {
+    "title": "Последние расчёты",
+    "see_all": "Смотреть все"
+  },
+  "loading": "Загрузка...",
+  "search": "Поиск...",
+  "guest": "Гость"
+}

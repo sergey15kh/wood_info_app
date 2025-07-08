@@ -1,0 +1,33 @@
+// public/locales/uk/common.json
+{
+  "auth": {
+    "error": "Помилка авторизації"
+  },
+  "app": {
+    "tagline": "Ваш помічник у роботі з деревиною",
+    "not_registered": "Незареєстрований користувач",
+    "user_member": "Користувач",
+    "premium_member": "Преміум користувач"
+  },
+  "categories": "Категорії",
+  "category": {
+    "edged": "Обрізні",
+    "unedged": "Необрізні",
+    "furniture": "Меблеві щити",
+    "calculator": "Кубатурник",
+    "materials": "Матеріали",
+    "projects": "Проекти"
+  },
+  "actions": {
+    "history": "Історія",
+    "favorites": "Обране",
+    "share": "Поділитися"
+  },
+  "recent": {
+    "title": "Останні розрахунки",
+    "see_all": "Дивитися всі"
+  },
+  "loading": "Завантаження...",
+  "search": "Пошук...",
+  "guest": "Гість"
+}

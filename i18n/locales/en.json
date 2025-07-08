@@ -1,0 +1,33 @@
+// public/locales/en/common.json
+{
+  "auth": {
+    "error": "Authentication error"
+  },
+  "app": {
+    "tagline": "Your woodworking helper",
+    "not_registered": "Unregistered user",
+    "user_member": "User",
+    "premium_member": "Premium user"
+  },
+  "categories": "Categories",
+  "category": {
+    "edged": "Edged",
+    "unedged": "Unedged",
+    "furniture": "Furniture panels",
+    "calculator": "Calculator",
+    "materials": "Materials",
+    "projects": "Projects"
+  },
+  "actions": {
+    "history": "History",
+    "favorites": "Favorites",
+    "share": "Share"
+  },
+  "recent": {
+    "title": "Recent calculations",
+    "see_all": "See all"
+  },
+  "loading": "Loading...",
+  "search": "Search...",
+  "guest": "Guest"
+}
